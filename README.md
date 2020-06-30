@@ -4,4 +4,4 @@ La presente muestar la realizacion de un CRUD de una aplicacion acerca de los eq
 
 # APK
 
-La apk generada se encuentra aqui, para poder ejecutarla ya que pesa mas de lo permitido en Moodle
+La apk generada se encuentra aqui, para poder ejecutarla ya que pesa mas de lo permitido en Moodle, es el archivo *MisEquipos.apk*
